@@ -1,8 +1,5 @@
 # Countdown-Timer Web Application
 
-
-![Countdown Timer](screenshot.png)
-
 ## Overview
 
 This is a simple countdown timer web application built using HTML, CSS, and JavaScript. The application allows users to set a specific date and time in the future, and it will count down to that moment, displaying the remaining time in days, hours, minutes, and seconds. When the countdown reaches zero, a sound alarm will play to notify the user.
@@ -18,11 +15,12 @@ This is a simple countdown timer web application built using HTML, CSS, and Java
 
 ## Demo
 
-You can view a live demo of the countdown timer [www.google.com](#).
+You can view a live demo of the countdown timer [https://skkyiee.github.io/Countdown-Timer/](#).
 
 ## Preview
 
 ![Countdown Timer Screenshot](screenshot.png)
+
 
 ## Getting Started
 
